@@ -16,7 +16,7 @@ echo 'IMC: '.$imc.'<br>';
 //Ejercicio 2: Convertir °C a °F
 echo '<h3>Ejercicio 2: Convertir °C a °F </h3>';
 $c = 10; //°C
-
+ 
 echo '°C: '.$c;
 echo '<br>';
 echo '<br>';
